@@ -26,10 +26,16 @@
   2. Backend / API: Node.js / Express
   3. Machine Learning: Python (Scikit-learn, Pandas, NumPy)
   4. Deployment: Lovable.app
-  
 
+  
 📊 Workflow
   1. Data Preprocessing – Handle missing values, normalization, and feature selection.
   2. Model Training – Machine learning model trained for early CKD detection.
   3. Web Integration – Simple user interface for health parameter input.
   4. Prediction Output – Instant results with CKD likelihood analysis.
+
+📌 Future Enhancements
+  🔹 Integration with real-time patient monitoring devices.
+  🔹 Advanced visualization of health trends.
+  🔹 Expanded dataset for higher accuracy.
+  🔹 Mobile app support.
